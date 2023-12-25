@@ -15,7 +15,7 @@ variables:
   webAppName: 'SK-Webbapp1'
 
   # Environment name
-  environmentName: 'mySuperAwesomeApp'
+  environmentName: 'SK-Webbapp1'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
